@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JohnNicholls]]></title>
         <description><![CDATA[JohnNicholls]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/johnnicholls/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 06:35:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 06:35:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johnnicholls/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/271c3ff0-eca7-4abe-97c4-4ffb9e391a00.png">]]></description>
+            <link>https://thegrid.ai/johnnicholls/spontaneous-gratitude/index.html</link>
+            <guid isPermaLink="false">a1bbc8a9-c5d7-4573-bfff-440c54454c64</guid>
+            <pubDate>Sun, 17 Jul 2016 06:35:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07f62280-e325-4827-89ad-3c0a8a469815.png">]]></description>
-            <link>undefined6-communication-rules-when-managing-change/index.html</link>
+            <link>https://thegrid.ai/johnnicholls/6-communication-rules-when-managing-change/index.html</link>
             <guid isPermaLink="false">2c8d9a1e-bd2d-4644-b5b1-6ab6fedabd1d</guid>
             <pubDate>Sun, 17 Jul 2016 06:35:13 GMT</pubDate>
         </item>
